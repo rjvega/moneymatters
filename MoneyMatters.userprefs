@@ -1,3 +1,40 @@
 ﻿<Properties StartupConfiguration="{8FC96BAA-4945-49D8-8CCE-715D700CB38F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MoneyMatters/appsettings.json">
+    <Files>
+      <File FileName="MoneyMatters/Data/MoneyMattersContext.cs" Line="1" Column="1" />
+      <File FileName="MoneyMatters/Startup.cs" Line="29" Column="13" />
+      <File FileName="MoneyMatters/MoneyMatters.csproj" Line="15" Column="1" />
+      <File FileName="MoneyMatters/appsettings.json" Line="7" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MoneyMatters" expanded="True">
+            <Node name="MoneyMatters" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+              <Node name="appsettings.json" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="MoneyMatters" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MoneyMatters PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
 </Properties>
